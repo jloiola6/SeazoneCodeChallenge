@@ -7,6 +7,11 @@ Espero que gostem :)
 # Carregar Bibliotecas
 Baixe as bibliotecas para executar esse projeto usando o comando:
 > $ pip install -r requirements.txt
+
+**Nota**: Aconselho a criação de uma virtualenv para garantir que as bibliotecas instaladas neste projeto não gere conflitos com as bibliotecas instaladas na máquian que rodará o mesmo.
+
+# Entrar no diretório do nosso projeto (website)
+> $ cd website
 	
 # Criar banco de dados
 
