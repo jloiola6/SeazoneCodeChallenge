@@ -1,0 +1,122 @@
+[
+{
+    "model": "api.reserva",
+    "pk": 1,
+    "fields": {
+        "codigo": 301356576429494,
+        "anuncio": 3,
+        "check_in": "2023-01-05",
+        "check_out": "2023-01-15",
+        "total": 350.0,
+        "comentario": "Deixar senha do wifi na entrada por favor",
+        "qtd_hospedes": 2,
+        "criacao": "2023-01-09T14:16:43.797Z",
+        "ultima_atualizacao": "2023-01-09T14:16:43.797Z"
+    }
+},
+{
+    "model": "api.reserva",
+    "pk": 2,
+    "fields": {
+        "codigo": 887616300813143,
+        "anuncio": 1,
+        "check_in": "2023-02-05",
+        "check_out": "2023-02-15",
+        "total": 300.0,
+        "comentario": "Lembrar de avisar ao porteiro a chegada ap�s a meia noite.",
+        "qtd_hospedes": 1,
+        "criacao": "2023-01-09T14:19:39.396Z",
+        "ultima_atualizacao": "2023-01-09T14:19:39.396Z"
+    }
+},
+{
+    "model": "api.reserva",
+    "pk": 3,
+    "fields": {
+        "codigo": 71962099418380,
+        "anuncio": 1,
+        "check_in": "2023-02-20",
+        "check_out": "2023-02-27",
+        "total": 300.0,
+        "comentario": "",
+        "qtd_hospedes": 1,
+        "criacao": "2023-01-09T14:20:21.454Z",
+        "ultima_atualizacao": "2023-01-09T14:20:21.454Z"
+    }
+},
+{
+    "model": "api.reserva",
+    "pk": 4,
+    "fields": {
+        "codigo": 289929228096349,
+        "anuncio": 2,
+        "check_in": "2023-05-10",
+        "check_out": "2023-05-24",
+        "total": 840.0,
+        "comentario": "",
+        "qtd_hospedes": 1,
+        "criacao": "2023-01-09T14:20:56.104Z",
+        "ultima_atualizacao": "2023-01-09T14:20:56.104Z"
+    }
+},
+{
+    "model": "api.reserva",
+    "pk": 5,
+    "fields": {
+        "codigo": 624078968405094,
+        "anuncio": 3,
+        "check_in": "2023-05-31",
+        "check_out": "2023-06-08",
+        "total": 450.0,
+        "comentario": "",
+        "qtd_hospedes": 1,
+        "criacao": "2023-01-09T14:21:39.990Z",
+        "ultima_atualizacao": "2023-01-09T14:21:39.990Z"
+    }
+},
+{
+    "model": "api.reserva",
+    "pk": 6,
+    "fields": {
+        "codigo": 759766372264576,
+        "anuncio": 2,
+        "check_in": "2023-02-01",
+        "check_out": "2023-02-11",
+        "total": 500.0,
+        "comentario": "",
+        "qtd_hospedes": 1,
+        "criacao": "2023-01-09T14:34:25.066Z",
+        "ultima_atualizacao": "2023-01-09T14:34:25.066Z"
+    }
+},
+{
+    "model": "api.reserva",
+    "pk": 7,
+    "fields": {
+        "codigo": 939673828634845,
+        "anuncio": 3,
+        "check_in": "2023-06-01",
+        "check_out": "2023-06-28",
+        "total": 1350.0,
+        "comentario": "",
+        "qtd_hospedes": 1,
+        "criacao": "2023-01-09T14:39:14.331Z",
+        "ultima_atualizacao": "2023-01-09T14:39:14.331Z"
+    }
+},
+{
+    "model": "api.reserva",
+    "pk": 8,
+    "fields": {
+        "codigo": 221270958426479,
+        "anuncio": 2,
+        "check_in": "2023-01-09",
+        "check_out": "2023-02-11",
+        "total": 1542.5,
+        "comentario": "",
+        "qtd_hospedes": 1,
+        "criacao": "2023-01-09T15:10:14.868Z",
+        "ultima_atualizacao": "2023-01-09T15:10:14.868Z"
+    }
+}
+]

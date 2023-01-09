@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#Pasta migrations
+website/apps/api/migrations
+
+
 # Distribution / packaging
 .Python
 build/

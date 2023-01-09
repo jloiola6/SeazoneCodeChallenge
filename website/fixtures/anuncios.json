@@ -1,0 +1,35 @@
+[
+{
+    "model": "api.anuncio",
+    "pk": 1,
+    "fields": {
+        "imovel": 1,
+        "plataforma": "AirBnb",
+        "taxa_plataforma": 3.0,
+        "criacao": "2023-01-09T14:09:22.549Z",
+        "ultima_atualizacao": "2023-01-09T14:09:22.549Z"
+    }
+},
+{
+    "model": "api.anuncio",
+    "pk": 2,
+    "fields": {
+        "imovel": 2,
+        "plataforma": "AirBnb",
+        "taxa_plataforma": 3.4,
+        "criacao": "2023-01-09T14:10:01.127Z",
+        "ultima_atualizacao": "2023-01-09T14:10:01.127Z"
+    }
+},
+{
+    "model": "api.anuncio",
+    "pk": 3,
+    "fields": {
+        "imovel": 4,
+        "plataforma": "Booking",
+        "taxa_plataforma": 2.0,
+        "criacao": "2023-01-09T14:10:16.029Z",
+        "ultima_atualizacao": "2023-01-09T14:10:16.029Z"
+    }
+}
+]
