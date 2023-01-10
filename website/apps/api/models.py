@@ -55,9 +55,14 @@ class Reserva(models.Model):
     ultima_atualizacao = models.DateTimeField('Atualizado em', auto_now= True)
 
     def save(self, *args, **kwargs):
-        codigo = ''
-        for x in range(15):
-            codigo += str(randint(0, 9))
+        parametro = False
+        while not parametro:
+            codigo = ''
+            for x in range(15):
+                codigo += str(randint(1, 9))
+            
+            if not Reserva.objects.filter(codigo= codigo).exists():
+                parametro = True
 
         self.codigo = int(codigo)
         super(Reserva, self).save(*args, **kwargs)
